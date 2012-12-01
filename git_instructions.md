@@ -1,6 +1,6 @@
-% Git Instructions
-% 
-% 2012-11-30
+Git Instructions
+=================
+
 
 # Introduction to Basic Usage
 
