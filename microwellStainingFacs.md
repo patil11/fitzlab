@@ -1,7 +1,7 @@
 Microwell Staining for Multiparameter Flow Cytometry
 ====================================================
 
-# PROTOCOL# PROTOCOL [^1]	
+# PROTOCOL
 
 All steps are performed in a clean, biological safety cabinet. 
 Once the Vital Stain is introduced into the samples, the lights within the biological safety cabinet are turned off whenever the samples are present. 
