@@ -15,3 +15,5 @@ These can be checked out individually, so we may just keep most of the separate 
 	This contains references for running flow and optimizing the LSR II cytometer at the core. 
     2. facscan
 	This contains mostly historical references for panels and running the the modified, five-color, FACScan cytometer.
+    3. protocols
+	This branch contains our most active and up-to-date protocols.

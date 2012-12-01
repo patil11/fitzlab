@@ -38,6 +38,13 @@ and also to check and see which branch you are working on:
 
 	git branch -v
 
+To start working on a different branch, or to switch back to the master repository:
+
+	git checkout master
+
+where master can be replaced with a branch name. To create a new branch:
+
+	git branch NewBranchname
 
 ## Check out just one branch
 
@@ -47,4 +54,3 @@ Or for us, say we want to checkout just the LSR II branch:
 
 	git clone git://github.com/agregson/fitzlab.git --branch lsrii --single-branch nameoflocalfolder
 	
-
