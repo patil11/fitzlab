@@ -1,12 +1,12 @@
 Protocol: Exosome Isolation - Ultracentrifugation
 =================================================
 
-Author: Created by Steven Poynter on 2012-08-14; Modified by ALG on 2012-10-05
+### Authors: Created by Steven Poynter on 2012-08-14; Modified by ALG on 2012-10-05
 
 # Notes:
 
 -   This protocol was modified from: Current Protocols in Cell Biology
-    (2006) 3.22.1-3.22.29 
+    (2006) 3.22.1-3.22.29[^1] 
 
 -   This protocol is suitable for serum, BALF, and most other
     biological fluids. 
@@ -134,11 +134,11 @@ Author: Created by Steven Poynter on 2012-08-14; Modified by ALG on 2012-10-05
 
 # References:
 
-1.  Théry, C.; Amigorena, S.; Raposo, G. & Clayton, A. Isolation and
+[^1]:.  Théry, C.; Amigorena, S.; Raposo, G. & Clayton, A. Isolation and
     characterization of exosomes from cell culture supernatants and
     biological fluids. (2006) Current Protocols in Cell Biology;Chapter
-    3, Unit 3.22: 3.22.1—3.22.29. (Thery2006) 
+    3, Unit 3.22: 3.22.1—3.22.29. [Thery2006](http://www.bibsonomy.org/bibtex/24a0ec607b1d6eb46eb5c14a0104f3411/aorchid)
 
 2.  Théry, C. Zitvogel, L., Amigorena, S., Exosomes: Composition,
     Biogenesis and Function. (2002) Nature Reviews:
-    Immunology;2:569—579. (Thery2002) 
+    Immunology;2:569—579. [Thery2002](http://www.bibsonomy.org/bibtex/2b9e1c40bc50ea918af7ef122fd540789/aorchid) 
