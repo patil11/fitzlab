@@ -6,24 +6,24 @@ Protocol: Exosome Isolation - Ultracentrifugation
 # Notes:
 
 -   This protocol was modified from: Current Protocols in Cell Biology
-    (2006) 3.22.1-3.22.29 
+    (2006) 3.22.1-3.22.29
 
 -   This protocol is suitable for serum, BALF, and most other
-    biological fluids. 
+    biological fluids.
 
 -   If used in medium, FCS must be exosome free. FCS can be replaced
     with insulin-transferrin-sodium-selenite supplement or BSA (1% w/v)
-    if desired (Thery et al. 2002) 
+    if desired (Thery et al. 2002)
 
 -   Threads of ultracentrifuge buckets must be coated with Beckman
     Spinkote, and the gaskets must be coated with Beckman Vacuum grease.
-     
+
 
 -   Must refrigerate SW 41 Ti rotor buckets at 4 degrees C prior to
-    running. 
+    running.
 
 -   Spins are programmed into the L-70k centrifuge for ease of use.
-    Please see page 3-2 of the manual for Programmed Usage. 
+    Please see page 3-2 of the manual for Programmed Usage.
 
 # Materials:
 
@@ -49,22 +49,22 @@ Protocol: Exosome Isolation - Ultracentrifugation
 
 10. Ice 
 
- 
+
 
 # Methods:
 
 1.  Spin down sample in 50-mL conical tube at 2000xg (3100 RPM in
-    Jouan centrifuge) for 30 minutes at 4 degrees C. 
+    Jouan centrifuge) for 30 minutes at 4 degrees C.
 
-    1.  Supernatant after this step contains the exosomes. 
+    1.  Supernatant after this step contains the exosomes.
 
 2.  Using a serological pipet, remove the supernatant to approximately
     2 cm above pellet. Use a pipetman to remove as much remaining
     supernatant as possible without disturbing the pellet. Transfer
-    supernatant to ultracentrifuge tubes. 
+    supernatant to ultracentrifuge tubes.
 
     1.  Optional: Keep aliquot of supernatant for purification
-        analysis if necessary. 
+        analysis if necessary.
 
 3.  Balance tubes with cold PBS using a scale. 
 
