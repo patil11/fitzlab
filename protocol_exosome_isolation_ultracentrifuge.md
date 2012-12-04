@@ -1,8 +1,6 @@
 Protocol: Exosome Isolation - Ultracentrifugation
 =================================================
 
-[^1]
-
 # Notes:
 
 -   This protocol was modified from: Current Protocols in Cell Biology
@@ -55,36 +53,29 @@ Protocol: Exosome Isolation - Ultracentrifugation
 
 1.  Spin down sample in 50-mL conical tube at 2000xg (3100 RPM in
     Jouan centrifuge) for 30 minutes at 4 degrees C.
-
     1.  Supernatant after this step contains the exosomes.
 
 2.  Using a serological pipet, remove the supernatant to approximately
     2 cm above pellet. Use a pipetman to remove as much remaining
     supernatant as possible without disturbing the pellet. Transfer
     supernatant to ultracentrifuge tubes.
-
     1.  Optional: Keep aliquot of supernatant for purification
         analysis if necessary.
 
 3.  Balance tubes with cold PBS using a scale. 
-
     1.  Fill tubes leaving only a few millimeters of empty space. 
-
     2.  Tubes must be weighed within 0.1 – 0.2 g 
 
 4.  Spin samples in ultracentrifuge, 12,000xg (8200 RPM with SW 41 Ti)
     for 45 minutes at 4 degrees C. 
-
     1.  This is saved as Program 1 on the Optima L-70k
         Ultracentrifuge 
-
     2.  Supernatant after this step contains the exosomes. 
 
 5.  Use serological pipet to remove supernatant from each tube, again
     being careful not to disturb the pellet. Transfer supernatant into
     new ultracentrifuge tubes and replace back in swing buckets. Be sure
     to lightly re-grease threads of buckets. 
-
     1.  Optional: Keep an aliquot of supernatant for purification
         analysis if desired. 
 
@@ -92,45 +83,38 @@ Protocol: Exosome Isolation - Ultracentrifugation
 
 7.  Spin in ultracentrifuge 100,000xg (24,000 RPM with SW 41 Ti) for 2
     hours at 4 degrees C. 
-
     1.  This is saved as Program 2 on the Optima L-70k
         Ultracentrifuge 
-
     2.  Pellet after this step contains exosomes 
 
 8.  Use a serological pipet to remove the supernatant from the
     samples. Use a pipetman to remove as much supernatant from the
     pellet as possible without disturbing it. 
-
     1.  Optional: Keep an aliquot of supernatant for purification
         analysis if desired. 
 
 9.  Using cold PBS, condense all pellets from same sample into a clean
     ultracentrifuge tube and fill up the tube to near maximum volume. 
-
     1.  Optional: You can add a 0.2 µm filtration step here, but be
         sure to use a filter that will not bind exosomes. See
         supplementary protocols to assess what filters to use. 
 
 10. Balance sample tube with another tube filled with PBS. 
-
     1.  All swing buckets with screwcaps must be attached to the rotor
         whether or not they contain sample. 
 
 11. Spin in ultracentrifuge, 110,000xg (25,000 RPM with SW 41 Ti) for
     1 hour at 4 degrees C. 
-
-    1.  This is Program 3 on the Optima L-70k Ultracentrifuge 
-
+        1. This is Program 3 on the Optima L-70k Ultracentrifuge 
     2.  Pellet after this step contains the exosomes. 
 
 12. Again, use a serological pipet to remove the supernatant from the
     samples. Use a pipetman to remove as much supernatant from the
     pellet as possible. Resuspend pellet in 60-120 µL of PBS and store
     at -80 degrees C. 
-
     1.  Optional: If you want to conduct exosomal protein analysis,
         you can resuspend in lysis buffer (see BCA protocol). 
+
 
 # References:
 
@@ -143,4 +127,5 @@ Protocol: Exosome Isolation - Ultracentrifugation
     Biogenesis and Function. (2002) Nature Reviews:
     Immunology;2:569—579. [Thery2002](http://www.bibsonomy.org/bibtex/2b9e1c40bc50ea918af7ef122fd540789/aorchid) 
 
-[^]: Authors: Created by Steven Poynter on 2012-08-14; Modified by ALG on 2012-10-05
+
+### Authors: Created by Steven Poynter on 2012-08-14; Modified by ALG on 2012-10-05
