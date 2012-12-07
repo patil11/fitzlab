@@ -1,7 +1,7 @@
 Microwell Staining for Multiparameter Flow Cytometry
 ====================================================
 
-# PROTOCOL
+# PROTOCOL[^1]
 
 All steps are performed in a clean, biological safety cabinet. 
 Once the Vital Stain is introduced into the samples, the lights within the biological safety cabinet are turned off whenever the samples are present. 
@@ -9,14 +9,23 @@ All centrifugation is done with the temperature set at 4 C.
 
 # Supplies
 
-1. 200 mcL round-bottom, 96-well plate, hard bottom for vortex
-2. DPBS + 4% fetal calf serum (FCS) + 0.1% Na Azide [Wash Buffer](Wash Buffer)
+1. 200 mcL round-bottom, 96-well plate (round bottom preferred), hard bottom for vortex
+2. PBS
+    1. Made as a 25X stock solution and diluted to 1X prior to use
+	    1. 175.33g NaCl
+		2. 5.03g KCl
+		3. 3.88g NaH~2~PO~4~
+		4. 31.05g Na~2~HPO~4~
+        5. Dissolve into 1 liter deionized water.
+2. Wash Buffer 
+    1. PBS + 4% fetal calf serum (FCS) + 0.1% Na Azide (or alternative such as Kathon)
 3. Paraformaldehyde (PFA) 1% (PFA is poisonous)
-4. R10 (RP + 10% FCS), warm
+    1. Created by diluting 20% stock 1:10 into PBS
+4. R10, warm
+    1. Created by adding 10% FCS by volume to RPMI
 5. Fluorescent labelled antibodies and Live/Dead Blue
-6. FoxP3 Fixation Buffer 
-7. FoxP3 Permeabilization Buffer
-8. Lysing Buffer
+6. BD FoxP3 Fixation Buffer 
+7. BD FoxP3 Permeabilization Buffer
 9. 1.5 mL microcentrifuge tubes to mix antibodies
 10. flow tubes with lids
 11. Cotton gauze either 2x2 or 4x4 inch size (to process fresh BALF)
@@ -55,18 +64,19 @@ If cryopreserved cells are not to be used then this step is omitted.
 
 This is performed for all samples, fresh or frozen.
 
-1. Resuspend cell pellet in 1 mL PBS. You must use PBS because amino acids will decrease dye effectiveness.
-2. Add 1 mcL Live/Dead Blue. This is previously reconsituted per the manufacturers directions with 50 mcL of DO. The reconstituted stock is kept in the dark at 4 C. 
+1. Resuspend cell pellet in 1 mL PBS or serum free tissue culture media (e.g., RPMI). The presence of serum protein interferes with vital stain labeling. Labeling is typically more intense in PBS than in serum free media.
+2. Add 1 mcL Live/Dead Fixable Dead Cell Stain Kit Blue (Invitrogen). This is previously reconsituted per the manufacturers directions with 50 mcL of DMSO. The reconstituted stock is kept in the dark at 4 C. 
 3. Vortex gently.
 4. *Incubate at 37 C x 20 minutes* Longer incubation is of no benefit.
 5. Add 9 mL warm R10 to quinch the reaction.
 6. Centrifuge at 1200 rpm x 2 minutes to pellet cells.
 7. Resuspend each cell pellet in 180 mL R10 for transfer to 96-well plate for staining.
 
+
 #### Surface Staining 
 
 This step can be completed in about 60 minutes depending upon the number of samples. 
-ke sure that the biosafety cabinet hood lights are off.
+Make sure that the biosafety cabinet hood lights are off.
 
 1. Get each sample into wells on the 96 well plate. Each well will become a flow tube.
     1. Place 180 mcL of sample into each well, i.e., the entire sample.
@@ -134,3 +144,23 @@ Again, the light within the biosafety cabinet should be turned off when working 
     3.  Add the contents of each well to one tube. 
     4.  Vortex the tubes.
     5.  Cover the flow tube with a cap and keep in the dark at 4 C until ready acquire on a cytometer.
+
+#### Acquisition and Analysis
+
+1. Acquisition is performed using a LSR II (BD Biosciences) cytometer with the following configurations: 
+    1. Configuration New (used with Panel 2 and its variations)
+	    a. Blue laser (488nm) with the following filters 635LP (695/40), 505LP (530/30), 488/10;
+        b. Red laser (640nm) with 755LP (780/60), 685LP (710/50), 670/30;
+		c. Violet laser (405nm) with 750LP (780/60), 685LP (710/50), 635LP (660/40), 595LP (605/40), 505LP (525/50), 450/50;
+        d. UV light (355nm) with 505LP (525/50) and 450/50;
+		e. Yellow/Green (561nm) with 750LP (780/60), 630LP (670/30), 600LP (670/30), 582/15.
+
+2. Compensation is performed using singly-stained tubes of each conjugated fluorochrome and BD CompBeads.
+    1. Forward (FSC) and side scatter (SSC) is voltage set according to the characteristics of the cells to be characterized. For our BALF lymphocytes we have determined that a voltage such that the FSC is linear and the SSC is logicle transformed provides the best lymphocyte visualization. This voltage can be determined with unstained sample of BALF and optimizing the placement of the lymphocytes in the FSC and SSC. Alternatively, unstained peripheral blood mononuclear cells can be used as a first estimation of the FSC and SSC voltages prior to optimizing with a BALF sample as lymphocytes within the BALF samples can sometimes be very difficult to visualize depending upon the quality of the sample.
+	2. Determine the ideal voltage for each PMT based on fluorescence of each fluorochrome in the set-up as per the flow cytometer's software requirements. We place the positive and negative beads in the same tube and collect them together. 
+	3. Once the PMT voltages are set, then compensation is estimated by the flow cytometer's software. Some of the PMT voltage settings may need adjustment based upon the results of the compensation calculations. Remember that small corrections in the compensation can be made in the analysis software.
+	4. After PMT voltages are optimized and the compenstation matrix has been calculated by the flow cytometer's software, we acquire 10,000 events of Sphero Rainbow Fluorescent Particles beads to generate median fluorescent voltages in each channel *without* compensation applied. This is saved as a FCS file and then the median fluorescence *without* compensation is each channel is noted. Prior to each subsequent acquisition of samples on the same cytometer and with the same lot of antibodies, a similar acquisition of Rainbow beads is performed without compensation applied. The PMT voltages are adjusted such that they are within +/-5% of the voltages obtained when the initial compensation was set. This allows us to avoid creating costly and time consuming new compensation controls for every acquisition.
+
+3. Acquisition then proceeds as normally for the flow cytometer's operating instructions.  
+
+[^1]: Version 2.4 (2011-06-21)
