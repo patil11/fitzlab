@@ -54,3 +54,9 @@ Or for us, say we want to checkout just the LSR II branch:
 
 	git clone git://github.com/agregson/fitzlab.git --branch lsrii --single-branch nameoflocalfolder
 	
+
+# General Pandoc Instructions
+
+An example to convert to pdf.
+
+``pandoc abstract_jove.md --biblio ~/Documents/jabref/JabRefdb/gnr-new.bib --csl journal-of-visualized-experiments.csl --latex-engine=xelatex -o abstract_jove.pdf``
