@@ -4,9 +4,9 @@ Protocol: Cell Culturing – A549 Adenocarcinomic Human Alveolar Basal Epithelia
 
 # Protocol Notes:
 
--   This protocol was modified from: "Cell Growth Protocol for A549 Cell Line"[^1]
+-   This protocol was modified from: "Cell Growth Protocol for A549 Cell Line"^1^
 
--   Biohazard Safety:
+### Biohazard Safety:
         - Be sure to work in a biohazard safety cabinet at all times. Wipe the cabinet before and after use with 70% ethanol or Bacdown disinfectant.  
 		- Use universal biosafety precautions, wear a lab coat and disposable gloves, and other appropriate PPE.
         - When changing growth medium, add bleach to the discarded media for 10% bleach solution to disinfect the cells and media for at least 10 minutes.  Discard and rinse down the drain.
@@ -71,7 +71,7 @@ Protocol: Cell Culturing – A549 Adenocarcinomic Human Alveolar Basal Epithelia
 
 # References
 
-[^1]  "Cell Growth Protocol for A549 Cell Line" from Hudson Alpha/Caltech ENCODE group, prepared by Norma Neff and Tim Reddy (``http://a549.com/a549_cell_culture.html``)
+1. "Cell Growth Protocol for A549 Cell Line" from Hudson Alpha/Caltech ENCODE group, prepared by Norma Neff and Tim Reddy <http://a549.com/a549_cell_culture.html>
 
 
 #### Authors: Created by SPoynter on 2012-07-31; Modified by SP on 2012-08-12; Modified by PInjean 2013-01-01; Modified by RKern 2013-02-01
