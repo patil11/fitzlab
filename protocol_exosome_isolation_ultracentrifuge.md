@@ -23,6 +23,15 @@ Exosome Isolation - Ultracentrifugation
 -   Spins are programmed into the L-70k centrifuge for ease of use.
     Please see page 3-2 of the manual for Programmed Usage.
 
+## Biohazard Safety
+
+-    Be sure to work in a biohazard safety cabinet at all times. Wipe the cabinet before and after use with 70% ethanol or Bacdown disinfectant. 
+-    Use universal biosafety precautions, wear a lab coat and disposable gloves, and other appropriate PPE.
+-    When disposing BAL fluids, add bleach to the discarded fluid for 10% bleach solution to disinfect the cells and fluid at least 10 minutes, then discard and rinse down the drain. 
+-    While spinning in centrifuge, cover the samples with the "Biohazard" caps to prevent the spread of infectious content in the case of a spill. 
+-    Dispose trash in the designated "Biohazard" trashcans. Be sure to double bag the pipets before disposal. 
+
+
 # Materials
 
 1.  50-mL polystyrene conical tubes
