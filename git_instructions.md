@@ -8,6 +8,7 @@ Git is a bit odd and takes some getting used to, but is very simple. Key to reme
 
 1. fitzlab This is in ucla/labdata/docs/fitzlab
 2. fitzmed This is in ucla/clinical/ABXDosing/fitzmed
+3. phatcity This is in ucla/research/collaborations/mckinnell/esbl (with wiki within phatcity)
 	
 
 To clone the master and all associated branches:
@@ -59,4 +60,4 @@ Or for us, say we want to checkout just the LSR II branch:
 
 An example to convert to pdf.
 
-``pandoc abstract_jove.md --biblio ~/Documents/jabref/JabRefdb/gnr-new.bib --csl journal-of-visualized-experiments.csl --latex-engine=xelatex -o abstract_jove.pdf``
+        - pandoc abstract_jove.md --biblio ~/Documents/jabref/JabRefdb/gnr-new.bib --csl journal-of-visualized-experiments.csl --latex-engine=xelatex -o abstract_jove.pdf
