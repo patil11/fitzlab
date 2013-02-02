@@ -23,7 +23,7 @@ Exosome Isolation - Ultracentrifugation
 -   Spins are programmed into the L-70k centrifuge for ease of use.
     Please see page 3-2 of the manual for Programmed Usage.
 
-## Biohazard Safety
+### Biohazard Safety
 
 -    Be sure to work in a biohazard safety cabinet at all times. Wipe the cabinet before and after use with 70% ethanol or Bacdown disinfectant. 
 -    Use universal biosafety precautions, wear a lab coat and disposable gloves, and other appropriate PPE.
