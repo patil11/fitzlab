@@ -31,6 +31,12 @@ All centrifugation is done with the temperature set at 4 C.
 11. Cotton gauze either 2x2 or 4x4 inch size (to process fresh BALF)
 12. 50 mL conical tubes (to process fresh BALF)
 13. 15 mL conical tubes (to thaw cryopreserved cells)
+14. Ammonium chloride lysing solution
+    1. 10x concentrate for 1 liter
+        1. Ammonium chloride 82.9 g (15 4mmol/L)
+        2. Potassium bicarbonate 10.0 g (10 mmol/L)
+        3. EDTA disodium salt 0.37 g (0.1 mmmol/L)
+        4. Distilled or DI H2O 1 liter
 
 
 #### Process Fresh BALF
