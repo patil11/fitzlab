@@ -1,0 +1,101 @@
+Flow Microwell Staining non-HT Analysis
+Supplies:
+1. 200 mcL round-bottom, 96-well plate, hard bottom for vortex
+2. PDBS + 4% FCS + 0.1% Na Azide (Wash Buffer)
+3. PFA 1% (poison)
+4. R10 (RPMI + 10% FCS)
+5. antibodies and Live/Dead Blue
+6. FoxP3 Fixation Buffer 
+7. FoxP3 Permeabilization Buffer
+8. Lysing Buffer
+9. microcentrifuge tubes to mix antibodies
+10. flow tubes with lids
+Fresh PBMC or BALF
+1. Heparinized PBMC (green tops)
+1. 400 mcL of blood per flow tube
+2. Place blood volume for total tubes needed in sufficient size conical tube (usually 15 mL)
+3. Place 2 mL of Lysing Buffer per 100 mcL of blood into conical tube
+4. Vortex and mix thoroughly
+5. Incubate at room temperature 4 minutes
+6. Spin down at 1200 rpm for 4 minutes
+7. Remove supernatant, vortex cells, add 200 mcL of Wash Buffer per flow tube to be stained, vortex
+8. Place 200 mcL of resuspended Wash Buffer and cells into each well of 96-well round bottom plate
+2. Fresh BALF
+1. Filter through 2x2 or 4x4 gauze with PBS
+2. Pellet cells with centrifugation 1200 rpm for 8 minutes (usually in ~40 mL PBS in 50 mL conical)
+1. If more than one tube for same sample may combine into one tube after this step
+3. Remove supernatant
+4. Resuspend in 1 mL of PBS for Vital stain as below
+3. CPT Blood
+1. Spin tubes down according to manufacturer's recommendations
+1. *Will be updated to include instructions here in future*
+Thawing Cells   (frozen BALF or PBMC)
+1. Warm sufficient R10 & gather sufficient number of 15 mL conical tubes
+2. Add 2 mL warm R10 to each 15 mL conical tube
+3. Put thawed cells (slush) into the  15 mL tube
+4. Sit at room temperature x 5 minutes
+5. Slowly add 8 mL warm R10
+6. Spin down 1200rpm x 2 minutes
+Vital Stain (All Samples) **DO NOT DO FOR FRESH BLOOD AND FRESH CPT BLOOD**
+1. Resuspend in 1 mL PBS (must be PBS, amino acids will decrease dye effectiveness)
+2. Add 1 mcL Live/Dead Blue (is in the 4 oC freezer)
+3. Vortex gently
+4. Incubate at 37 oC x 20 minutes (longer incubation will not help)
+5. Add 9 mL warm R10 (quinches reaction)
+6. Spin 1200 x 2 minutes
+7. Resuspend each in 180 mL R10 for transfer to 96-well plate for staining
+Surface Staining:					(~ 60 minutes)
+ 1.  Get sample into each well (each well will become a flow tube)
+ 1.1.  place 180 mcL of sample into each well (R10) (i.e., entire sample)
+ 1.2.  spin plate 1200rpm x 2 minutes
+ 1.3.  flip drip dry
+ 1.4.  wipe off top
+ 1.5.  agitate via quick vortex
+ 2.  Stain the cells
+ 2.1.  Add the Master Mix of surface mAb sufficient quantity to each well
+ 2.2.  If total staining volume is not >=24 mcL, add sufficient Wash Buffer to make total volume >=24mcL
+ 2.3.  mix with 10 mcL pipet (up and down 5—10 times)
+ 2.4.  incubate at 4 oC for 30 minutes (in the cold, dark refrigerator)
+ 3.  Wash antibody off of cells
+ 3.1.  add 180 mcL of washing solution
+ 3.2.  spin plate 1200rpm x 2 minutes
+ 3.3.  flip drip dry
+ 3.4.  wipe off top
+ 3.5.  agitate via quick vortex
+FoxP3 Staining:						(2+ hours)
+ 1.  Staining as for normal antibody first, but prior to normal fixation
+ 2.  Fix cells
+ 2.1.  add 180 mcL Fixation Buffer
+ 2.2.  mix well, will likely clump
+ 2.3.  incubate 60 minutes at 4 oC
+ 3.  Wash off Fixation Buffer
+ 3.1.  spin cells at 1200rpm x 2 minutes
+ 3.2.  flip drip dry
+ 3.3.  wipe off top
+ 3.4.  agitate via quick vortex
+ 4.  Wash in Permeabilization Buffer
+ 4.1.  add 180 mcL Permeabilization Buffer
+ 4.2.  spin cells at 1200rpm x 2 minutes
+ 4.3.  flip drip dry
+ 4.4.  wipe off top
+ 4.5.  agitate via quick vortex
+ 5.  Stain cells
+ 5.1.  add Permeabilization Buffer such that total staining volume per well = 12 mcL
+ 5.2.  add intracellular stains for day (will vary, examples & volumes below)
+ a)  4 mcL FoxP3-V450
+ b)  2 mcL Ki67-FITC
+ c)  2 mcL IL-17 A & F Alexa488
+ d)  2 mcL PE-Cy5 IFN-g
+ 5.3.  incubate 30 minutes at 4 oC 
+ 6.  Wash in Permeabilization Buffer
+ 6.1.  add 180 mcL Permeabilization Buffer
+ 6.2.  spin cells at 1200rpm x 2 minutes
+ 6.3.  flip drip dry
+ 6.4.  wipe off top
+ 6.5.  agitate via quick vortex
+ 7.  Fix cells with PFA
+ 7.1.  add 150 mcL 1% PFA to each well
+ 7.2.  fill each flow tube with 150 mcL PFA
+ 7.3.  add contents of wells to tube
+ 7.4.  vortex tubes
+ 7.5.  cover with cap, keep at 4 oC until ready to use
