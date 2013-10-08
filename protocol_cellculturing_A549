@@ -1,0 +1,55 @@
+Protocol: Cell Culturing – A549 Adenocarcinomic Human Alveolar Basal Epithelial Cells
+=======================================================================================
+Created by SP on 2012-07-31
+Modified by SP on 2012-08-12
+# Notes:
+-	This protocol was modified from:
+o	http://a549.com/a549_cell_culture.html
+o	“Cell Growth Protocol for A549 Cell Line” from Hudson Alpha/Caltech ENCODE group, prepared by Norma Neff and Tim Reddy
+# Materials:
+1.	15-mL polystyrene conical tubes
+2.	50-mL polystyrene conical tubes
+3.	Cryogenic Vials, Corning Incorporated, 2-mL, Lot# 34308068, Cat# 430488, 
+4.	T-75 cm2 Flask
+    a.	Thermo Scientific, BioLite 75 cm2 Flask Vented, Lot#A5RA5NG113, Cat#130190
+5.	T-175 cm2 Flask
+    a.	Thermo Scientific, BioLite 175 cm2 Flask Vented, Lot#C4WA4PE112, Cat#130191
+6.	A549 Cell Line, Location: 1st floor freezer
+    a.	Frozen at P20 by N/A on N/A
+    b.	Thawed on 2012-07-30 by SP
+7.	Growth Medium, prepared on 2012-07-30 by SP
+    a.	DMEM: HyClone, Cat# SH30285.01, Lot# AXF39350, Expiration: Dec. 2012
+    b.	Fetal Bovine Serum (FBS): Prepared by N/A on N/A
+    c.	Pen/Strep: Prepared by N/A on N/A, Location: refrigerator #5
+    d.	Amp B: Prepared by N/A on N/A, Location: refrigerator #5
+    e.	HEPES: Cellgro, Cat# 25-060-Cl, Lot# 25060106, Expiration: Sept. 2012
+8.	Trypsin/EDTA, prepared on N/A by N/A, location: refrigerator #6, -20 degrees C
+9.	Phosphate Buffered Saline (PBS) 1x, prepared on N/A by N/A
+10.	Freeze down solution, 90% (v/v) FBS, 10% (v/v) Dimethyl Sulfoxide (DMSO)
+    a.	Fetal Bovine Serum (FBS): Prepared by N/A on N/A
+    b.	Dimethyl Sulfoxide, Research Organics, Cat# 2166D, Lot# A85277, Received: Jan. 2010, Location: cell culturing room
+11.	Jouan CR 412 Centrifuge
+12.	Incubator
+# Methods:
+## Thawing Cells
+1.	Pipet sufficient volume of growth medium into 50-mL conical vial(s) and place medium into 37 degrees C/5% CO2 incubator for at least 30 minutes before use.
+    a.	Calculation for medium volume:
+2.	Pipet 1-mL of warm growth medium into a 15-mL conical vial. Thaw cells in 37 degree water bath until cell/ice pellet loosens from tube wall and quickly transfer cell/ice pellet to 1-mL of warm growth medium. Add 9-mL of warm growth medium to vial for total volume of approximately 11-mL. Gently invert tube several times.
+3.	Remove 20-uL of cells in growth medium and pipet into 0.5-mL microcentrifuge tube for cell count
+4.	Add 20-uL of Trypan Blue to the 20-uL aliquot of cells and mix well with pipet. Add 10-uL of mixture into cell counter.
+    a.	Record cell counts and show calculations:
+5.	After counting cells, centrifuge original cell volume at 1200 RPM at 4 degrees C for 5 minutes.
+6.	Remove medium from cells being careful not to disturb the cell pellet and add appropriate volume of fresh warm growth medium. Cells should be seeded between 2x103 and 1x104 cells/cm2. Flask size used will be determined on cell count, but a T-75 should get ~5x105 cells and a T-175 should get ~1x106 cells.
+7.	Change medium every 2-3 days and split confluent cultures 1:4 to 1:9 every 4 to 7 days.
+## Splitting Cells
+1.	Pipet sufficient volume of growth medium into 50-mL conical vial(s) and place medium into 37 degrees C/5% CO2 incubator for at least 30 minutes before use. A vial of trypsin/EDTA must also be thawed in preparation for splitting cells and should be placed in the incubator with the medium after thawing.
+2.	Remove growth medium from cell culture flasks with a sterile pipet and suction apparatus. Add trypsin/EDTA to each flask and roll solution back and forth along surface of flask for a few minutes to aid in loosening the cells. After agitating place flasks in incubator. Total trypsinization process should not take longer than 5-7 minutes.
+3.	Add warm growth medium (three times the volume of trypsin/EDTA used to lift the cells) to the flask and wash the medium over the complete flask surface several times to recover the cells.
+4.	Pipet cells into a conical vial and centrifuge at 1200 RPM at 4 degrees C for 5 minutes
+5.	Remove medium from cells being careful not to disturb the cell pellet and add appropriate volume of fresh warm growth medium. Cells should be seeded between 2x103 and 1x104 cells/cm2. Flask size used will be determined on cell count, but a T-75 should get ~5x105 cells and a T-175 should get ~1x106 cells. Record new cell passage number on new flask.
+## Freezing Cells
+1.	Spin resuspended cells at 1200 RPM for 5 minutes at 4 degrees C.
+2.	Remove medium from cells being careful not to disturb the cell pellet and add appropriate volume of cold freeze down solution to obtain 2 or 3 million cells per cryogenic vial. Be sure to properly mix resuspended cells to ensure proper freeze down concentration.
+3.	Aliquot 1-mL of cells in freeze down solution in cryogenic vial(s). Work quickly as DMSO is toxic to cells.
+4.	Place cryogenic vial(s) in -80 degrees C freezer tray overnight.
+5.	Move cryogenic vial(s) to -150 degrees C freezer for storage the following day. Be sure to update the record folder.
